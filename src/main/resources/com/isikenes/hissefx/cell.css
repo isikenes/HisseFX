@@ -1,0 +1,8 @@
+.list-cell
+{
+    -fx-font: 24px "Arial";
+    -fx-alignment: center;
+    -fx-text-fill: #dddddd;
+    -fx-background-color: #333333;
+    -fx-border-color: #444444;
+}
